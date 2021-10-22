@@ -2,6 +2,9 @@
 
 Unofficial Hepsiburada libary
 
+Hepsiburada_API.dll Adlı paketi projenize ekleyin. Ve kullanıma başlayın.
+Şuanlık sadece Hesap giriş ve hesap oluşturma özellikleri mevcuttur. Projeye ilgi gelirse devamı eklenecektir.
+
 Available plugins
 
 - [x] Login Account
