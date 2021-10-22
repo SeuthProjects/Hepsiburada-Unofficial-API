@@ -1,6 +1,6 @@
 # Hepsiburada Unofficial API
 
-Unofficial Hepsiburada libary
+Hepsiburada için geliştirdiğim .dll Paketi.
 
 Hepsiburada_API.dll Adlı paketi projenize ekleyin. Ve kullanıma başlayın.
 Şuanlık sadece Hesap giriş ve hesap oluşturma özellikleri mevcuttur. Projeye ilgi gelirse devamı eklenecektir.
